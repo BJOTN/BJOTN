@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bjorn-louie-agbalog-98204b160/](https://www.linkedin.com/in/bjorn-louie-agbalog-98204b160/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bjorn-louie-agbalog-98204b160/]([https://www.linkedin.com/in/bjorn-louie-agbalog-98204b160/](https://www.linkedin.com/in/bjorn-louie-agbalog-98204b160))
 
 - 📫 How to reach me **bjornlouie98@gmail.com**
 
