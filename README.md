@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bjorn Louie Agbalog</h1>
 <h3 align="center">A passionate FullStack developer from Italy</h3>
 
-- 🔭 I’m currently working on **cloning Lego**
+//- 🔭 I’m currently working on **cloning Lego**//
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **bjornlouie98@gmail.com**
 
