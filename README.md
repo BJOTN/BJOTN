@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bjorn Louie Agbalog</h1>
 <h3 align="center">A passionate FullStack developer from Italy</h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **my Sass**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **bjornlouie98@gmail.com**
 
